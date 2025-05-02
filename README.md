@@ -1,4 +1,4 @@
-# Aryaman22102002
+# Aryaman Shardul
 
 ### 👋 Hello, I'm Aryaman
 
