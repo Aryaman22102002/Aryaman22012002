@@ -1,4 +1,4 @@
-# Aryaman22012002
+# Aryaman22102002
 
 ### 👋 Hello, I'm Aryaman
 
