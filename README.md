@@ -5,10 +5,10 @@
 I'm a Robotics Master's student at **Northeastern University** in Boston, MA, with a background in Computer Engineering from **Veermata Jijabai Technological Institute**, Mumbai, India.
 
 🚀 I'm passionate about:
-- 🤖 Simultaneous Localization and Mapping (SLAM)
-- 🧭 Path Planning and Navigation
-- 👁️ Robot Perception
 - 🎯 Control Systems & Optimization
+- 🧭 Motion Planning
+- 🤖 Simultaneous Localization and Mapping (SLAM)
+- 👁️ Robot Perception
 
 💼 Explore my internships and projects on my [personal website](https://aryaman22102002.github.io/).
 
